@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/orm_shop.iml" filepath="$PROJECT_DIR$/.idea/orm_shop.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/2.1.iml" filepath="$PROJECT_DIR$/.idea/2.1.iml" />
->>>>>>> 26e1ee815a321b57bf1299c7fe829b23a5c3f653
     </modules>
   </component>
 </project>
